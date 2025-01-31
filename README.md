@@ -1,1 +1,1 @@
-# LLM_study_250131
+# LLM_CoT_Study
